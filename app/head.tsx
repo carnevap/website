@@ -1,7 +1,7 @@
-const title = 'YOURNAME | Portfolio';
+const title = 'Patrick Carnevale | Portfolio';
 const url = '/';
-const description = `YOURNAME's personal portfolio website. Made with Next.js and Three.js (React Three)`;
-const author = 'YOURNAME';
+const description = `Patrick Carnevale's personal portfolio website. Made with Next.js and Three.js (React Three)`;
+const author = 'Patrick Carnevale';
 
 export default function Head() {
   return (
