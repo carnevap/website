@@ -1,7 +1,7 @@
 'use client';
 
-import { Space } from '@/components/canvas/space';
 import { View } from '@/components/canvas/View';
+import { Space } from '@/components/canvas/space';
 import { AboutPanel } from '@/components/panel/about/panel';
 import { ExperiencePanel } from '@/components/panel/experience/panel';
 import { ProjectsPanel } from '@/components/panel/projects/panel';
@@ -10,6 +10,7 @@ import { StartScreen } from '@/components/start';
 import { Html, Hud } from '@react-three/drei';
 import { Suspense, useState } from 'react';
 import useSound from 'use-sound';
+import TBF from '../src/sounds/TBF.mp3';
 import ambience from '../src/sounds/ambience.mp3';
 
 export default function Page() {
@@ -20,6 +21,7 @@ export default function Page() {
   const [showProjects, setShowProjects] = useState(false);
 
   useSound(ambience, { loop: true, autoplay: true });
+  useSound(TBF, { loop: true, autoplay: true });
 
   return (
     <div className='w-full flex h-full bg-black overflow-hidden'>
