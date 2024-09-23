@@ -8,11 +8,11 @@ export interface IAbout {
 }
 
 export const aboutData: IAbout = {
-  name: 'YOURNAME',
+  name: 'Patrick Carnevale',
   links: [
-    { icon: faGithub, url: 'https://github.com/' },
-    { icon: faLinkedin, url: 'https://www.linkedin.com/in/' },
-    { icon: faYoutube, url: 'https://www.youtube.com/' },
+    { icon: faGithub, url: 'https://github.com/carnevap' },
+    { icon: faLinkedin, url: 'https://www.linkedin.com/in/patrick-carnevale/' },
+    { icon: faYoutube, url: 'https://www.youtube.com/novipit' },
   ],
-  description: `Hi, I'm YOURNAME—a computer science student. Don't hesitate to reach out through LinkedIn if you'd like to connect.`,
+  description: `Hi, I'm Patrick Carnevale a computer science graduate. Don't hesitate to reach out through LinkedIn if you'd like to connect.`,
 };
