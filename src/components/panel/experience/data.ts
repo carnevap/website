@@ -20,7 +20,7 @@ export const experienceData: IExperience[] = [
   },
 
   {
-    title: 'Sr Multimedia Intern',
+    title: 'IT Infrastructure Support Analyst',
     companyName: 'University of Windsor',
     companyImage: image2,
     date: 'May 2021 - Apr 2022 (1 year)',
