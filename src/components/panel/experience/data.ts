@@ -20,7 +20,7 @@ export const experienceData: IExperience[] = [
   },
 
   {
-    title: 'IT Infrastructure Support Analyst',
+    title: 'Sr Multimedia Intern',
     companyName: 'Canada Revenue Agency',
     companyImage: image1,
     date: 'Sep 2022 - Aug 2023 (1 year)',
