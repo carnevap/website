@@ -24,6 +24,6 @@ export const experienceData: IExperience[] = [
     companyName: 'University of Windsory',
     companyImage: image2,
     date: 'May 2021 - Apr 2022 (1 year)',
-    points: ['Developed learning resources, including videos, graphics, websites, and animations', 'Designed visual elements for student and faculty educational content', 'Collaborated with departments and schools on multimedia projects', 'Enhanced the university's multimedia presence through diverse content', 'Supported faculty and students with engaging digital resources'],
+    points: ['Provided technical support and maintained IT infrastructure to ensure smooth operations', 'Collaborated with IT teams to escalate and resolve complex technical issues efficiently', 'Implemented monitoring tools and procedures to identify potential issues proactively and mitigate risks', 'Ensured system stability and reliability through continuous infrastructure maintenance', 'Facilitated communication between IT teams and end-users to ensure timely issue resolution'],
   },
 ];
