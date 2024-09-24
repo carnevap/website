@@ -21,8 +21,8 @@ export const experienceData: IExperience[] = [
 
   {
     title: 'Sr Multimedia Intern',
-    companyName: 'Canada Revenue Agency',
-    companyImage: image1,
+    companyName: 'University of Windsory',
+    companyImage: image2,
     date: 'Sep 2022 - Aug 2023 (1 year)',
     points: ['Provided technical support and maintained IT infrastructure to ensure smooth operations', 'Collaborated with IT teams to escalate and resolve complex technical issues efficiently', 'Implemented monitoring tools and procedures to identify potential issues proactively and mitigate risks', 'Ensured system stability and reliability through continuous infrastructure maintenance', 'Facilitated communication between IT teams and end-users to ensure timely issue resolution'],
   },
