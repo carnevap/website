@@ -20,10 +20,10 @@ export const experienceData: IExperience[] = [
   },
 
   {
-    title: 'Fullstack Developer',
-    companyName: 'Facebook',
+    title: 'Sr Multimedia Intern',
+    companyName: 'University of Windsor',
     companyImage: image2,
-    date: 'Dec 2022 - Apr 2023',
-    points: ['Point 1', 'Point 2', 'Point 3', 'Point 4', 'Point 5'],
+    date: 'May 2021 - Apr 2022 (1 year)',
+    points: ['Developed learning resources, including videos, graphics, websites, and animations', 'Designed visual elements for student and faculty educational content', 'Collaborated with departments and schools on multimedia projects', 'Enhanced the university's multimedia presence through diverse content', 'Supported faculty and students with engaging digital resources'],
   },
 ];
