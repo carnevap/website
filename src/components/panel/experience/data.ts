@@ -24,6 +24,6 @@ export const experienceData: IExperience[] = [
     companyName: 'University of Windsory',
     companyImage: image2,
     date: 'May 2021 - Apr 2022 (1 year)',
-    points: ['Developed learning resources, including videos, graphics, websites, and animations', 'Designed visual learning elements for both student and faculty', '', '', ''],
+    points: ['Developed learning resources, including videos, graphics, websites, and animations', 'Designed visual learning elements for both student and faculty', 'Collaborated with departments and schools on multimedia projects', 'Enhanced the universitys multimedia presence through diverse contents', 'Supported faculty and students with custom course materials'],
   },
 ];
