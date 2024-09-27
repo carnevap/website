@@ -4,9 +4,6 @@ import { StaticImageData } from 'next/image';
 import image1 from './images/image1.png';
 import image2 from './images/image2.png';
 import image3 from './images/image3.png';
-import 1image1 from './images/1image1.png';
-import 1image2 from './images/1image2.png';
-import 1image3 from './images/1image3.png';
 
 export interface IProject {
   name: string;
