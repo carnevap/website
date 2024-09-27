@@ -14,7 +14,7 @@ export interface IProject {
 
 export const projectsData: IProject[] = [
   {
-    name: 'AI Robot Project',
+    name: 'Multipleyer Video Game',
     description: 'My super cool robot!',
     images: [image1, image2, image3],
     links: [
@@ -29,7 +29,7 @@ export const projectsData: IProject[] = [
     ],
   },
   {
-    name: 'Personal Website',
+    name: 'AI Powered Web Scrapper',
     description: 'Very awesome NextJS website!',
     images: [image1, image2, image3],
     links: [
@@ -44,7 +44,7 @@ export const projectsData: IProject[] = [
     ],
   },
   {
-    name: 'Another AI Project',
+    name: 'Tiny Language Compiler',
     description: 'I love making AI stuff!',
     images: [image1, image2, image3],
     links: [
