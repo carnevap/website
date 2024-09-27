@@ -1,9 +1,9 @@
 import { ILinkWithIcon } from '@/types';
 import { faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import { StaticImageData } from 'next/image';
-import image1 from './images/1image1.png';
-import image2 from './images/1image2.png';
-import image3 from './images/1image3.png';
+import image1 from './images/image1.png';
+import image2 from './images/image2.png';
+import image3 from './images/image3.png';
 
 export interface IProject {
   name: string;
@@ -16,7 +16,7 @@ export const projectsData: IProject[] = [
   {
     name: 'Multipleyer Video Game',
     description: 'My super cool robot!',
-    images: [1image1, 1image2, 1image3],
+    images: [image1, image2, image3],
     links: [
       {
         icon: faGithub,
@@ -31,7 +31,7 @@ export const projectsData: IProject[] = [
   {
     name: 'AI Powered Web Scrapper',
     description: 'Very awesome NextJS website!',
-    images: [1image1, 1image2, 1image3],
+    images: [image1, image2, image3],
     links: [
       {
         icon: faGithub,
@@ -46,7 +46,7 @@ export const projectsData: IProject[] = [
   {
     name: 'Tiny Language Compiler',
     description: 'I love making AI stuff!',
-    images: [1image1, 1image2, 1image3],
+    images: [image1, image2, image3],
     links: [
       {
         icon: faGithub,
