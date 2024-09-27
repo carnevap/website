@@ -24,7 +24,7 @@ export const projectsData: IProject[] = [
       },
       {
         icon: faYoutube,
-        url: 'https://youtube.com',
+        url: 'https://youtu.be/Wjym5V8B9-c',
       },
     ],
   },
