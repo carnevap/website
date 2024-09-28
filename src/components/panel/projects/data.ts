@@ -46,15 +46,4 @@ export const projectsData: IProject[] = [
       },
     ],
   },
-  {
-    name: 'Tiny Language Compiler',
-    description: 'I love making AI stuff!',
-    images: [image1, image2, image3],
-    links: [
-      {
-        icon: faGithub,
-        url: 'https://github.com/',
-      },
-    ],
-  },
 ];
