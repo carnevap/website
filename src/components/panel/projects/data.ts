@@ -4,6 +4,9 @@ import { StaticImageData } from 'next/image';
 import image1 from './images/image1.png';
 import image2 from './images/image2.png';
 import image3 from './images/image3.png';
+import image4 from './images/image4.png';
+import image5 from './images/image5.png';
+import image6 from './images/image6.png';
 
 export interface IProject {
   name: string;
@@ -31,15 +34,15 @@ export const projectsData: IProject[] = [
   {
     name: 'AI Powered Web Scrapper',
     description: 'This project was created to enhance Stack Overflow answers by utilizing Large Language Models like ChatGPT. It involves creating a program to extract programming questions and answers, generating improved responses using a LLM API, and combining them with the original to produce more accurate, descriptive, and straightforward answers.',
-    images: [image1, image2, image3],
+    images: [image4, image5, image6],
     links: [
       {
         icon: faGithub,
         url: 'https://github.com/carnevap/llm-api-web-scraper',
       },
       {
-        icon: faGoogle-Drive,
-        url: 'https://youtube.com',
+        icon: faGoogle,
+        url: 'https://drive.google.com/drive/folders/1N5ytE9o7ZTMPhWL9uIgdbpxJzXcTP1Hj?usp=sharing',
       },
     ],
   },
