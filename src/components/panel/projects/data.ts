@@ -1,5 +1,5 @@
 import { ILinkWithIcon } from '@/types';
-import { faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faYoutube, faGoogle } from '@fortawesome/free-brands-svg-icons';
 import { StaticImageData } from 'next/image';
 import image1 from './images/image1.png';
 import image2 from './images/image2.png';
@@ -23,7 +23,7 @@ export const projectsData: IProject[] = [
         url: 'https://github.com/carnevap/flag-fight-game',
       },
       {
-        icon: faYoutube,
+        icon: faGoogle,
         url: 'https://youtu.be/Wjym5V8B9-c',
       },
     ],
