@@ -20,7 +20,7 @@ export const projectsData: IProject[] = [
     links: [
       {
         icon: faGithub,
-        url: 'https://github.com/',
+        url: 'https://github.com/carnevap/flag-fight-game',
       },
       {
         icon: faYoutube,
@@ -30,12 +30,12 @@ export const projectsData: IProject[] = [
   },
   {
     name: 'AI Powered Web Scrapper',
-    description: 'Very awesome NextJS website!',
+    description: 'This project was created to enhance Stack Overflow answers by utilizing Large Language Models like ChatGPT. It involves creating a program to extract programming questions and answers, generating improved responses using a LLM API, and combining them with the original to produce more accurate, descriptive, and straightforward answers.',
     images: [image1, image2, image3],
     links: [
       {
         icon: faGithub,
-        url: 'https://github.com/',
+        url: 'https://github.com/carnevap/llm-api-web-scraper',
       },
       {
         icon: faYoutube,
