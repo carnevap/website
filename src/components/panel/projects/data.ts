@@ -23,7 +23,7 @@ export const projectsData: IProject[] = [
         url: 'https://github.com/carnevap/flag-fight-game',
       },
       {
-        icon: faGoogle,
+        icon: faYoutube,
         url: 'https://youtu.be/Wjym5V8B9-c',
       },
     ],
@@ -38,7 +38,7 @@ export const projectsData: IProject[] = [
         url: 'https://github.com/carnevap/llm-api-web-scraper',
       },
       {
-        icon: faYoutube,
+        icon: faGoogle-Drive,
         url: 'https://youtube.com',
       },
     ],
