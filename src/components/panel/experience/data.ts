@@ -12,6 +12,14 @@ export interface IExperience {
 
 export const experienceData: IExperience[] = [
   {
+    title: 'Bilingual Support Representative',
+    companyName: 'Toyota Canada',
+    companyImage: image3,
+    date: 'Jul 2024 - Present',
+    points: ['Utilized AWS cloud services to aid Toyota Canada clients', 'Provided clients with information and technical support', 'Promoted multiple times in quick succession after only a few months of working', 'Handle high priority emails and sensitive informations as well as address in-app feedback issues', 'Made use of my bilingualism to support both English and French clients'],
+  },
+  
+  {
     title: 'IT Infrastructure Support Analyst',
     companyName: 'Canada Revenue Agency',
     companyImage: image1,
