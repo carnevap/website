@@ -1,6 +1,7 @@
 import { StaticImageData } from 'next/image';
 import image1 from './images/image1.png';
 import image2 from './images/image2.png';
+import image3 from './images/image3.png';
 
 export interface IExperience {
   title: string;
