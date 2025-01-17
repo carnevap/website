@@ -17,7 +17,7 @@ export interface IProject {
 
 export const projectsData: IProject[] = [
   {
-    name: 'Multipleyer Video Game',
+    name: 'Multiplayer Video Game',
     description: 'This custom Capture the Flag game offers an exciting blend of strategy, teamwork, and problem-solving. With challenging obstacles and puzzles, it delivers a thrilling experience for all players.',
     images: [image1, image2, image3],
     links: [
