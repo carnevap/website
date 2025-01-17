@@ -33,7 +33,7 @@ export const projectsData: IProject[] = [
   },
   {
     name: 'AI Powered Web Scraper',
-    description: 'This project was created to enhance Stack Overflow answers by utilizing Large Language Model API's, such as GPT. It involves creating a python program to extract programming related questions and answers, generating improved responses using the LLM API, and combining them with the original question / answer to produce more accurate, descriptive, and straightforward responces.',
+    description: 'This project was created to enhance Stack Overflow answers by utilizing Large Language Model APIs, such as GPT. It involves creating a python program to extract programming related questions and answers, generating improved responses using the LLM API, and combining them with the original question / answer to produce more accurate, descriptive, and straightforward responces.',
     images: [image4, image5, image6],
     links: [
       {
