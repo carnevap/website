@@ -2,6 +2,7 @@ import { StaticImageData } from 'next/image';
 import image1 from './images/image1.png';
 import image2 from './images/image2.png';
 import image3 from './images/image3.png';
+import image4 from './images/image4.png';
 
 export interface IExperience {
   title: string;
@@ -29,10 +30,18 @@ export const experienceData: IExperience[] = [
   },
 
   {
-    title: 'Sr Multimedia Intern',
+    title: 'Senior Multimedia Intern',
     companyName: 'University of Windsory',
     companyImage: image2,
     date: 'May 2021 - Apr 2022 (1 year)',
     points: ['Developed learning resources, including videos, graphics, websites, and animations', 'Designed visual learning elements for both student and faculty', 'Collaborated with departments and schools on multimedia projects', 'Enhanced the universitys multimedia presence through diverse contents', 'Supported faculty and students with custom course materials'],
+  },
+
+  {
+    title: 'Sandwich Artist',
+    companyName: 'Subway',
+    companyImage: image4,
+    date: 'Jul 2017 - Sep 2021 (4+ year)',
+    points: ['Managed store operations including opening/closing, handeling cash, supervising and training team members, cleaning, food prep, serving, stocking and so much more.', 'Being bilingual, I would often take orders of the French speaking customers', 'After 4 years of working here, I was in the highest position of seniority which meant I was trusted with many leadership responsibilities.', 'Took it upon myself to create custom training documentation and learning ressources for the new hires I would train.', 'Learnt a lot about customer interactions and how to effectively deescalate tense situations.'],
   },
 ];
